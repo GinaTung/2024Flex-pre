@@ -1,0 +1,46 @@
+.container {
+    margin: 10px auto;
+    max-width: 1165px;
+    line-height: 1.5;
+  }
+  main {
+    display: flex;
+    width: 1100px;
+    border: 1px solid #2d2d2d;
+  }
+  .sidebar {
+    background: #e7eeea;
+    padding: 60px 15px 0;
+  }
+
+  .menu li {
+    padding: 30px 105px;
+  }
+  .menu li a {
+    padding: 4px;
+    font-size: 20px;
+    font-weight: bold;
+    color:#37523d;
+  }
+  .menu li a:hover {
+    color: #2d2d2d;
+  }
+  .content {
+    padding: 60px 85px 0;
+  }
+  .content img {
+    display: inline-block;
+    height: auto;
+  }
+  h2{
+    margin-bottom: 30px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #37523d;
+  }
+  .content p{
+    font-size: 24px;
+    margin-bottom: 30px;
+    text-align:justify;
+    color: #2d2d2d;
+  }
